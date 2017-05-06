@@ -7,7 +7,7 @@ I wouldn't recommend putting too much reliance on the actual figures it produces
 
 ## Dynamic
 
-The Speed_Test_Dynamic.ino file will alternat the clock rate between 80MHz and 160MHz on successive iterations using the "system_update_cpu_freq()" system call.  Note that the system call will override any platformio.ini settings you may have.
+The Speed_Test_Dynamic.ino file will alternat the clock rate between 80MHz and 160MHz on successive iterations using the `system_update_cpu_freq()` system call.  Note that the system call will override any platformio.ini settings you may have.
 
 
 ## Static
