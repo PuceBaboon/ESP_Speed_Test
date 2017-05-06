@@ -1,6 +1,6 @@
 # ESP_Speed_Test
 
-This is Ray Burnette's ESP8266 version of Reinhard P. Weicker's Dhrystone speed test, modified very slightly to provide some indication of the speed difference between running the ESP8266 at 80MHz and 160MHz.
+This is Ray Burnette's ESP8266 version of Reinhold P. Weicker's Dhrystone speed test, modified very slightly to provide some indication of the speed difference between running the ESP8266 at 80MHz and 160MHz.
 
 I wouldn't recommend putting too much reliance on the actual figures it produces, but it does show a difference between the two different clock rates.
 
