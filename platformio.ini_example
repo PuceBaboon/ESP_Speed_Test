@@ -14,4 +14,8 @@ board = nodemcu
 framework = arduino
 ;;
 ; Set the ESP8266 clock frequency to 160MHz
-board_f_cpu = 160000000L
+; NOTE:-Updated to newer syntax Nov, 2018.
+;       Thanks to Mike de Klerk for the pointer.
+;board_f_cpu = 160000000L
+board_build.f_cpu = 160000000L
+
